@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CPP_Clicker", "CPP_Clicker\CPP_Clicker.vcxproj", "{ADECF4F2-0796-4844-A21D-D9EF2C055C35}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADECF4F2-0796-4844-A21D-D9EF2C055C35}.Debug|x64.ActiveCfg = Debug|x64
+		{ADECF4F2-0796-4844-A21D-D9EF2C055C35}.Debug|x64.Build.0 = Debug|x64
+		{ADECF4F2-0796-4844-A21D-D9EF2C055C35}.Debug|x86.ActiveCfg = Debug|Win32
+		{ADECF4F2-0796-4844-A21D-D9EF2C055C35}.Debug|x86.Build.0 = Debug|Win32
+		{ADECF4F2-0796-4844-A21D-D9EF2C055C35}.Release|x64.ActiveCfg = Release|x64
+		{ADECF4F2-0796-4844-A21D-D9EF2C055C35}.Release|x64.Build.0 = Release|x64
+		{ADECF4F2-0796-4844-A21D-D9EF2C055C35}.Release|x86.ActiveCfg = Release|Win32
+		{ADECF4F2-0796-4844-A21D-D9EF2C055C35}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF8038DC-53FD-4867-AAEC-EA628BB6E6C6}
+	EndGlobalSection
+EndGlobal
